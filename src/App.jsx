@@ -12,6 +12,7 @@ import AdmissionPage from './pages/AdmissionPage';
 import './index.css';
 import ChatbotComponent from './components/Chatbot/ChatbotComponents';
 import { useState } from 'react';
+
 import DeveloperInfoPopup from './components/DeveloperInfo/DeveloperInfoPopup';
 function App() {
   const [showPopup, setShowPopup] = useState(true);

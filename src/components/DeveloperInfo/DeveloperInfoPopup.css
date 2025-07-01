@@ -31,8 +31,8 @@
   color: #888;
 }
 .student-photo {
-  width: 120px; /* Size of the photo */
-  height: 120px;
+  width: 150px; /* Size of the photo */
+  height: 150px;
   border-radius: 50%; /* Makes it round */
   object-fit: cover; /* Ensures photo covers the area */
   margin-bottom: 15px;
